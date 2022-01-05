@@ -1,0 +1,6 @@
+env/
+pycache
+migrations/
+*.sqlite3
+static/
+media/
